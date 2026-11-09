@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028849014145",
+    "project_id": "lazycolumn-ceb07",
+    "storage_bucket": "lazycolumn-ceb07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028849014145:android:094a31b16a596d79e2c480",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.lazycolumn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPVOtn-ROfhoP_JWKEyuXd7Ln4d5bnMAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028849014145:android:036544d9f3dbb5aee2c480",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.lazycolumn2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPVOtn-ROfhoP_JWKEyuXd7Ln4d5bnMAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
