@@ -144,12 +144,15 @@ fun PantallaCavalls(db: FirebaseFirestore) {
             carregant -> {
                 CircularProgressIndicator()
             }
+
             error != null -> {
                 Text("Error:$error")
             }
+
             cavalls.isEmpty() -> {
                 Text("No hi ha cavalls")
             }
+
             else -> {
                 LazyColumn(
                     verticalArrangement = Arrangement.spacedBy(8.dp)
