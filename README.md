@@ -34,16 +34,3 @@
 
 5. **Interfície d'usuari reactiva amb Jetpack Compose:**
    - Disseny amb `Column`, `Card`, `CircularProgressIndicator` i `LazyColumn` per renderitzar de manera eficient la llista de cavalls amb les seves propietats (Nom, Edat, Raça, Pes i Velocitat màxima).
-
----
-
-## 🚀 Com executar el projecte
-
-1. Clona el repositori:
-   ```bash
-   git clone https://github.com/XavierHR1/HorseApp.git
-   ```
-2. Obre el projecte a **Android Studio**.
-3. Assegura't de tenir el fitxer `google-services.json` configurat a la carpeta `app/`.
-4. Configura les regles de seguretat a Firebase Console (mode de prova activat per a la col·lecció `horses`).
-5. Executa l'aplicació en un emulador o dispositiu físic.
